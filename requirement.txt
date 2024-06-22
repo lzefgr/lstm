@@ -1,0 +1,6 @@
+#环境
+python 3.7
+requests
+pandas 0.23.4
+torch 
+
